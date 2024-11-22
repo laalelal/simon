@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+}
+.btn{
+    border: 8px solid black;
+    border-radius: 25%;
+    height: 150px;
+    width: 150px;
+    margin: 1.5rem;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.yellow{
+    background-color:peru;
+}
+.green{
+    background-color: cadetblue;
+}
+.red{
+    background-color: indianred;
+}
+.blue{
+    background-color: cornflowerblue;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color:whitesmoke
+}
